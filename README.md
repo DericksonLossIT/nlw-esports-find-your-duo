@@ -5,8 +5,6 @@
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DericksonLossIT/nlw-esports-find-your-duo?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/DericksonLossIT/nlw-esports-find-your-duo">
 	
   <a href="https://www.linkedin.com/in/derickson-loss/">
     <img alt="Made by Derickson Loss" src="https://img.shields.io/badge/made%20by-DericksonLoss-%2304D361">
