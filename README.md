@@ -76,7 +76,7 @@ From your command line:
 $ git clone https://github.com/DericksonLossIT/nlw-esports-find-your-duo.git
 
 # Go into the repository
-$ cd Find-your-DUO/server
+$ cd nlw-esports-find-your-duo/server
 
 # Install dependencies
 $ npm install
@@ -101,7 +101,7 @@ $ npm run dev
 $ git clone https://github.com/DericksonLossIT/nlw-esports-find-your-duo.git
 
 # Go into the repository
-$ cd Find-your-DUO/web
+$ cd nlw-esports-find-your-duo/web
 
 # Install dependencies
 $ npm install
@@ -119,7 +119,7 @@ $ npm run dev
 $ git clone https://github.com/DericksonLossIT/nlw-esports-find-your-duo.git
 
 # Go into the repository
-$ cd Find-your-DUO/mobile
+$ cd nlw-esports-find-your-duo/mobile
 
 # Install dependencies
 $ npm install
